@@ -1,5 +1,5 @@
 ### :star: Jutole :star:
-
+:pushpin: Blog : https://jutole.tistory.com/
 * * *
 
 ### :fire: Tech Stack :fire:
