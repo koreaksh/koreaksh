@@ -1,4 +1,6 @@
 ### :star: Jutole :star:
+주니어에서 리드개발자로    
+    
 :pushpin: Blog : https://jutole.tistory.com/
 * * *
 
