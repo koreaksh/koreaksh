@@ -9,8 +9,14 @@
 
 
 # :pencil2: Project  
+
+###  [LectureApply](https://github.com/koreaksh/Lecture_Apply_App)
+한 줄 소개 : 학습자가 편리한 장소로 실습 교사들이 방문하여 강의하는 학습 시스템 앱
+사용 기술 : Flutter, Dart, Provider, Rest_Api
+
+
 ###  [Salend](https://github.com/koreaksh/SeoilTeamProject)
 한 줄 소개 : 매장 마감에 맞춰 할인된 가격에 상품을 살 수 있도록 도와주는 앱  
-사용 기술 : Android, Kotlin, RestApi
+사용 기술 : Android, Kotlin, Rest_Api
 
 
