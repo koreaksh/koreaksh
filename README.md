@@ -10,6 +10,11 @@
 
 # :pencil2: Project  
 
+###  [Untteut](https://litt.ly/untteut)&#160;&#160;진행중
+한 줄 소개 : MZ세대의 신개념 소통 플랫폼,  
+사용 기술 : Flutter, Dart, GetX, Rest_Api
+
+
 ###  [LectureApply](https://github.com/koreaksh/Lecture_Apply_App)
 한 줄 소개 : 학습자가 편리한 장소로 실습 교사들이 방문하여 강의하는 학습 시스템 앱  
 사용 기술 : Flutter, Dart, Provider, Rest_Api
