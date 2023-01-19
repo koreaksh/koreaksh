@@ -1,18 +1,16 @@
-### :star: Jutole :star:
-주니어에서 리드개발자로    
-    
-:pushpin: Blog : https://jutole.tistory.com/
-* * *
-
-### :fire: Tech Stack :fire:
+# :fire: Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-## :pencil2: Study
-Flutter : 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+
+
+# :pencil2: Project  
+###  [Salend](https://github.com/koreaksh/SeoilTeamProject)
+한 줄 소개 : 매장 마감에 맞춰 할인된 가격에 상품을 살 수 있도록 도와주는 앱  
+사용 기술 : Android, Kotlin, RestApi
 
 
