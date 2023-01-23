@@ -8,7 +8,7 @@
 
 
 
-# :pencil2: Project  
+# 📖 Project  
 
 ###  [Untteut](https://litt.ly/untteut)&#160;&#160;진행중
 한 줄 소개 : MZ세대의 신개념 소통 플랫폼,  
@@ -23,5 +23,16 @@
 ###  [Salend](https://github.com/koreaksh/SeoilTeamProject)
 한 줄 소개 : 매장 마감에 맞춰 할인된 가격에 상품을 살 수 있도록 도와주는 앱  
 사용 기술 : Android, Kotlin, Rest_Api
+
+
+
+# :pencil2: Study
+
+### [deliveryAppStudy]&#160;&#160;진행중 
+한 줄 소개 : 인프런 Flutter중급강의 공부  
+사용 기술 : Flutter, Riverpod, JWT, GoRouter, Retrofit, Dio, OOP, Pagination, Debounce and Throttle, Swagger
+
+
+
 
 
