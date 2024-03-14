@@ -22,13 +22,5 @@
 
 
 
-# :pencil2: Study
-
-### [deliveryAppStudy](https://github.com/koreaksh/FlutterStudy)&#160;&#160;진행중 
-한 줄 소개 : 인프런 Flutter중급강의 공부  
-사용 기술 : Flutter, Riverpod, JWT, GoRouter, Retrofit, Dio, OOP, Pagination, Debounce and Throttle, Swagger
-
-
-
 
 
